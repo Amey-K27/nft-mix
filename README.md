@@ -1,4 +1,5 @@
 > Update: You should use `ipfs://` instead of `https://ipfs.io/` for your tokenURI
+> just for tetsing
 
 # nft-mix
 
